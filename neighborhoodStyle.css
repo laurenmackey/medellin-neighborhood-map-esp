@@ -1,0 +1,28 @@
+Html, body, div {
+    Padding: 0;
+    Border: 0;
+    Margin: 0;
+}
+
+.svg-container {
+    height: 0px;
+    padding-bottom: 93.3%;
+}
+
+.svg-content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#Guayabal_14 path, #La_Candelaria_14 path, #_x31_2_de_Octubre_14 path, #San_Javier_14 path {
+    cursor: pointer;
+}
+
+#Guayabal_14 path:hover, #La_Candelaria_14 path:hover, #_x31_2_de_Octubre_14 path:hover, #San_Javier_14 path:hover {
+    fill: #E2CD50;
+}
+
+#Return_Button g rect, #timelineCircles circle, .closeButton {
+    cursor: pointer;
+}
